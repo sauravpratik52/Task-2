@@ -6,7 +6,7 @@ This project is designed to practice basic web development skills like **layouts
 ---
 
 ## 🚀 Live Demo  
-🔗 [Click here to view the live site](https://your-username.github.io/travel-explorer/)  
+🔗 [Click here to view the live site](https://sauravpratik52.github.io/Task-2/)  
 
 
 
